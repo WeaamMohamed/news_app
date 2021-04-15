@@ -16,7 +16,7 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 
 #
 #
-=
+
 
 
 | science screen   | Business screen      |
