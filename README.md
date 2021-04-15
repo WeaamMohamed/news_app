@@ -1,16 +1,24 @@
 # news_app
 
-A new Flutter application.
+A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories ranges from tech to entertainment. You can choose news category displayed on category page. App is providing a smooth and amazing design with gestures effect and smooth experience with android and iOS both platform.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Home screen     | webview screen |
+| -------------- | -------------- |
+| <p align="center"> <img src="screenshots/newsHome.jpg" width="75%"> </p> | <p align="center"> <img src="screenshots/webView.jpg" width="75%"> </p> |
+
+
+
+
+#
+#
+=
+
+
+| science screen   | Business screen      |
+| -------------- | -------------- |
+| <p align="center"> <img src="screenshots/scienceCategory.jpg" width="75%"> </p> | <p align="center"> <img src="screenshots/businessCategory.jpg" width="75%"> </p> |
